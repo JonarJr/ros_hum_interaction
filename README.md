@@ -1,5 +1,7 @@
 # Repository Notes / HOW TO USE:
 
+Full Wiki Documentation here: https://github.com/campusrover/ros_hum_interaction/wiki
+
 **ABOUT US:**
 We are the human interaction team! We worked on this project from October to November. This project was done in an independent study with Professor Salas, but will be reused for the next generation of developers in Autonomous Robotics Lab (COSI 119A).
 
